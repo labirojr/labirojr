@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @labirojr
+- 👋 Hi, I’m Andri
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on medicla data analysis
